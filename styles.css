@@ -6,6 +6,8 @@
 }
 
 #rocket {
-    position: relative;
+    position: absolute;
     display: flex; 
+    left: 350px;
+    top: 250px;
 }
