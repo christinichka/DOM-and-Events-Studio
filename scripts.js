@@ -19,8 +19,6 @@ let yPosition = 250;
 const score = spaceShuttleHeight.innerHTML;
 let count = Number(score);
 
-// console.log(originalPosition);
-
 // Takeoff Button Events
 function shuttleInFlight(){
     window.confirm("Confirm that the shuttle is ready for takeoff.");
