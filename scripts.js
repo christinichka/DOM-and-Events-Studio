@@ -36,9 +36,6 @@ function shuttleHasLanded(){
     flightStatus.innerHTML = "The shuttle has landed.";
     shuttleBackground.style.backgroundColor = "green";
     spaceShuttleHeight.innerHTML = 0;
-     /*go back to original position*/
-    //  rocket.style.left = (xPosition) + 'px';
-    //  rocket.style.top = (yPosition) + "px";
 }
      
 landing.addEventListener("click", shuttleHasLanded);
@@ -48,8 +45,6 @@ function missionAborted(){
     flightStatus.innerHTML = "Mission aborted.";
     shuttleBackground.style.backgroundColor = "green";
     spaceShuttleHeight.innerHTML = 0;
-    /*go back to original position*/
-
     }
 }
 missionAbort.addEventListener("click", missionAborted);
