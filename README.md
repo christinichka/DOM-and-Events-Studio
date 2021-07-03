@@ -8,3 +8,6 @@ Changes in background screen when take off, landing and aborted buttons were pus
 Change of messages and pop ups according to user clicks
 
 In this studio the gui was provided.
+
+
+![Image of DOM-and-Events-Studio deployment](https://github.com/christinichka/DOM-and-Events-Studio/blob/master/2021-07-03%20(13).png)
